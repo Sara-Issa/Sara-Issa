@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/saraissamo" target="blank"><img src="https://img.shields.io/twitter/follow/saraissamo?logo=twitter&style=for-the-badge" alt="saraissamo" /></a> </p>
 
-- 🌱 I’m currently learning **php, CS50, and nest.js**
+- 🌱 I’m currently learning **php and nest.js**
 
 - 💬 Ask me about **react**
 
