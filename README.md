@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **saraisamo123@gmail.com**
 
-- 📄 Know about my experiences [sara.international](sara.international)
+<!-- - 📄 Know about my experiences [sara.international](sara.international) -->
 
 - ⚡ Fun fact **when I'm not coding i love to cook and to do gardening :D**
 
