@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/saraissamo" target="blank"><img src="https://img.shields.io/twitter/follow/saraissamo?logo=twitter&style=for-the-badge" alt="saraissamo" /></a> </p>
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **ML and GNN**
 
 - 💬 Ask me about **react frameworks**
 
@@ -11,7 +11,6 @@
 
 <!-- - 📄 Know about my experiences [sara.international](sara.international) -->
 
-- ⚡ Fun fact **when I'm not coding I love to cook and do gardening :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
